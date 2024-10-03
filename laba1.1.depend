@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1727958100 source:c:\users\artek\documents\инфа\laba1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1727700516 source:c:\users\artek\documents\инфа\laba1.1\main1.c
+	<stdio.h>
+	<stdlib.h>
+
